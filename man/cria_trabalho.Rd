@@ -4,10 +4,10 @@
 \alias{cria_trabalho}
 \title{Cria um novo arquivo .rmd de um trabalho}
 \usage{
-cria_trabalho(file = "Francisco_Rosa_Dias_de_Miranda_Teste08.rmd")
+cria_trabalho(filename = "Francisco_Rosa_Dias_de_Miranda_Teste08.rmd")
 }
 \arguments{
-\item{file}{Nome do arquivo}
+\item{filename}{Nome do arquivo}
 }
 \description{
 Cria um novo arquivo .rmd de um trabalho

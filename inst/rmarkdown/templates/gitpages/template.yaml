@@ -1,0 +1,4 @@
+name: gitpages
+description: >
+   Template for gitpages with rmd that generates readme and page with theme
+create_dir: TRUE

@@ -20,13 +20,24 @@ Até o momento temos:
 
 Cria um novo Rmd para fazer um trabalho
 
-  - templates: -trabalho acadêmico
+Templates:
 
-<!-- end list -->
+#### Trabalho
 
 ``` r
-   cria_trabalho(file = "Francisco_Rosa_Dias_de_Miranda_Teste08.rmd")
+   cria_trabalho(
+   filename = "Francisco_Rosa_Dias_de_Miranda_Teste08.rmd")
 ```
+
+#### Gitpage
+
+``` r
+   cria_gitpage(
+   filename = "minha pagina")
+```
+
+Depois é só editar o arquivo jerkyll e o readme.Rmd já vai gerar uma
+página top\!
 
 Em breve:
 
