@@ -1,0 +1,12 @@
+---
+title: "SME0805 - Processos Estocásticos - Teste 6"
+author: "Francisco Rosa Dias de Miranda - 4402962"
+date: "outubro 2021"
+output: pdf_document
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Exercício 1 
