@@ -1,6 +1,6 @@
 # thepackage
 
-Esse pacote do R contém coisas legais do R como templates, datasets e funções, que eu irei acrescentando conforme precisar.
+Esse pacote do R contém coisas legais como templates, datasets e funções, que eu irei acrescentando conforme precisar.
 
 ## Instalação
 
